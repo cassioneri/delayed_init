@@ -79,9 +79,9 @@ struct is_nothrow_swappable<T, U, typename std::enable_if<noexcept(
  * The type T must not be a reference type.
  * 
  * Reference:
- * Cassio Neri, "Complex logic in the member initialiser list", to appear in
- * Overload:
- * http://accu.org/index.php/journals/c78/
+ * Cassio Neri, "Complex logic in the member initialiser list", Overload 112,
+ * ACCU, (2012).
+ * http://accu.org/var/uploads/journals/Overload112.pdf
  */
 template <typename T>
 class delayed_init {
