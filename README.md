@@ -21,7 +21,7 @@ Files
 References
 -
 
-[1] Cassio Neri, *Complex logic in the member initialiser list*, to appear
-in [Overload](http://accu.org/index.php/journals/c78).
+[1] Cassio Neri, *Complex logic in the member initialiser list*,
+[Overload 112](http://accu.org/var/uploads/journals/Overload112.pdf), (2012).
 
 [optional]: http://www.boost.org/doc/libs/1_51_0/libs/optional/doc/html/index.html "boost::optional"
